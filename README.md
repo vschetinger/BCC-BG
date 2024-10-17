@@ -17,16 +17,16 @@ I am generally against snitching, but please peer-pressure each other (respectfu
 
 ## Game Library
 
-Below is a list of games currently available in the library. It is not complete and you can use git pull requests if you want to help me improve it. Later I can add a sort of scoring system to make things more interesting.
+Below is a list of games currently available in the library. It is not complete and you can use git pull requests if you want to help me improve it (e.g. adding more games or putting better videos). Later I can add a sort of scoring system to make things more interesting.
 
 
 | Game                  | BGG Link                                                                      | Video Instructions                                                           |
 |-----------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| **7 Wonders**         | [7 Wonders on BGG](https://boardgamegeek.com/boardgame/68448/7-wonders)       | [How to Play 7 Wonders](https://www.youtube.com/watch?v=T7EIpX4cYbg)         |
-| **Settlers of Catan** | [Settlers of Catan on BGG](https://boardgamegeek.com/boardgame/13/catan)      | [How to Play Settlers of Catan](https://www.youtube.com/watch?v=KkZ6nqF_m_U) |
-| **Saboteur**          | [Saboteur on BGG](https://boardgamegeek.com/boardgame/9220/saboteur)          | [How to Play Saboteur](https://www.youtube.com/watch?v=mtszHWeCClg)          |
-| **Challengers**       | [Challengers on BGG](https://boardgamegeek.com/boardgame/354703/challengers)  | [How to Play Challengers](https://www.youtube.com/watch?v=VYzx_Sc8fpQ)       |
-| **6 nimmt!**          | [6 nimmt! on BGG](https://boardgamegeek.com/boardgame/432/6-nimmt)            | [How to Play 6 nimmt!](https://www.youtube.com/watch?v=ZZdhQa5P1uc)          |
+| **7 Wonders**         | [7 Wonders on BGG](https://boardgamegeek.com/boardgame/68448/7-wonders)       | [How to Play 7 Wonders](https://www.youtube.com/watch?v=XnBLz61FJYw&ab_channel=ReposProduction)         |
+| **Settlers of Catan** | [Settlers of Catan on BGG](https://boardgamegeek.com/boardgame/13/catan)      | [How to Play Settlers of Catan](https://www.youtube.com/watch?v=cPhX_1RiwEg&ab_channel=TripleSGames) |
+| **Saboteur**          | [Saboteur on BGG](https://boardgamegeek.com/boardgame/9220/saboteur)          | [How to Play Saboteur](https://www.youtube.com/watch?v=G6avDieg_2Q&ab_channel=TabletopDuo)          |
+| **Challengers**       | [Challengers on BGG](https://boardgamegeek.com/boardgame/354703/challengers)  | [How to Play Challengers](https://www.youtube.com/watch?v=wu_iguu58N8&ab_channel=JestaThaRogue)       |
+| **6 nimmt!**          | [6 nimmt! on BGG](https://boardgamegeek.com/boardgame/432/6-nimmt)            | [How to Play 6 nimmt!](https://www.youtube.com/watch?v=ooNfiy6Nfpg&ab_channel=GameandParty)          |
 
 
 **GLHF!**
